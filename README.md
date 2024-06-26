@@ -4,7 +4,7 @@
 
 
 ## Table of Contents:
-1. [What is ft_server](https://github.com/vvarodi/ft_server#what-is-ft_server-) ❔
+1. [What is WebServer using Docker](https://github.com/vvarodi/ft_server#what-is-ft_server-) ❔
     * [Description for newbies](https://github.com/vvarodi/ft_server#description-for-newbies-) 💡
 2. [Instructions](https://github.com/vvarodi/ft_server#instructions-) 👈
     * [Installation](https://github.com/vvarodi/ft_server#-installation) 🔧
@@ -18,7 +18,7 @@
 4. [How it looks](https://github.com/vvarodi/ft_server#how-it-looks-) 💻 
 4. [Resources / Research](https://github.com/vvarodi/ft_server#resourcesresearch-) 🔍
 
-# What is ft_server ❔
+# What is WebServer using Docker ❔
 
 > [SUBJECT](en.subject.pdf)
 

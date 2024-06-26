@@ -1,4 +1,4 @@
-# ft_server - @42born2code
+# WebServer using Docker
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1920px-Docker_%28container_engine%29_logo.svg.png"
      style="text-align:center" width=300px />
 
